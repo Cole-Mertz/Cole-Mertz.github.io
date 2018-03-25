@@ -44,7 +44,7 @@ body > .container {
 .homepagePhoto {
 	float: left;
   margin-right: 15px;
-  max-width: 330px;
+  max-width: 300px;
   border-radius: 50%;
 }
 
